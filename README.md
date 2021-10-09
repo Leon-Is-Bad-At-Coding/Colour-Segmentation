@@ -1,5 +1,6 @@
 # Colour-Segmentation
 ![Webp net-gifmaker](https://user-images.githubusercontent.com/84482670/136640509-c3555461-186d-4658-8af8-176aa6667b17.gif)
+
 This project is about seperating colours in an image into larger groups.
 Colour segmentation is useful because grouping the colours into larger chunks of colours makes it a lot simpler and easier to analyze. The chunks of colour are better at representing the RGB values rather than tiny pixels.
 1. Choose a number of clusters.
