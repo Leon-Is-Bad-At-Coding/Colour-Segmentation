@@ -6,5 +6,6 @@ Colour segmentation is useful because grouping the colours into larger chunks of
 2. Choose a some points to be centroids.
 3. Assign all points to the nearest centroid.
 4. Calculate new centroid locations based on clusters.
+
 Clustering result changes each iteration because the centroids are being recalculated every time.
 You should stop the algorithm when the error graph is at its lowest. The error how different your image is to the original.
